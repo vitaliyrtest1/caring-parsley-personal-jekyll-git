@@ -106,3 +106,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+domain: 'https://caring-parsley-personal-jekyll-git-58c66.netlify.app'
