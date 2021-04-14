@@ -211,7 +211,7 @@ seo:
   description: The preview of the Personal theme
   extra:
     - name: 'og:type'
-      value: website1
+      value: website
       keyName: property
     - name: 'og:title'
       value: Stackbit Personal Theme
